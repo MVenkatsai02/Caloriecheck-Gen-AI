@@ -16,7 +16,7 @@ The **Calorie Checker** is an AI-powered web app that analyzes food items from a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/calorie-checker.git
+   git clone https://github.com/MVenkatsai02/Caloriecheck-Gen-AI
    cd calorie-checker
    ```
 2. Create a virtual environment (optional but recommended):
